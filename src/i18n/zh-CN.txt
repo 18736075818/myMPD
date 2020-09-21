@@ -1,0 +1,1554 @@
+简体中文
+
+MPD connection
+MPD连接
+
+Add stream
+添加流
+
+Update
+更新
+
+Update database
+更新数据库
+
+Rescan database
+重新扫描数据库
+
+Update directory
+更新目录
+
+Rescan directory
+重新扫描目录
+
+Update smart playlists
+更新智能播放列表
+
+Settings
+设置
+
+About
+关于
+
+Add to home screen
+添加到主屏幕
+
+Local playback
+本地播放
+
+Connecting to stream...
+正在连接到流......
+
+JavaScript is disabled
+JavaScript已禁用
+
+Apply
+应用
+
+Playback
+播放
+
+Queue
+队列
+
+Browse
+浏览
+
+Search
+搜索
+
+Save queue
+保存队列
+
+Shuffle queue
+Shuffle 队列
+
+Add to queue
+添加到队列
+
+Clear queue
+清除队列
+
+Crop queue
+Crop 队列
+
+Any Tag
+任何标签
+
+Filename
+文件名
+
+Filetype
+文件类型
+
+Fileformat
+文件格式
+
+bits
+bits
+
+kHz
+kHz
+
+Search queue
+搜索队列
+
+Title
+标题
+
+Work
+工作
+
+Artists
+艺术家
+
+Artist
+艺术家
+
+ArtistSort
+艺术分类
+
+Album
+专辑
+
+AlbumSort
+专辑分类
+
+Duration
+持续时间
+
+AlbumArtist
+唱片艺术家
+
+AlbumArtistSort
+唱片集艺术家分类
+
+Composer
+作曲家
+
+Performer
+表演者
+
+Genre
+类型
+
+Date
+日期
+
+Track
+轨道
+
+Song
+歌曲
+
+Comment
+评论
+
+Disc
+圆盘
+
+Label
+标签
+
+Grouping
+分组
+
+Conductor
+导线
+
+Pos
+Pos
+
+Invalid API request
+无效的API请求
+
+Failed to set like, invalid like value
+无法设置like，like值无效
+
+Failed to set like, invalid song uri
+无法设置like，无效的歌曲uri
+
+Last played
+上次播放
+
+LastPlayed
+上次播放
+
+Last skipped
+上次跳过
+
+Database
+数据库
+
+Filesystem
+文件系统
+
+Playlists
+播放列表
+
+Playlist
+播放列表
+
+Clear playlist
+清除播放列表
+
+Last modified
+上次修改时间
+
+Previous page
+上一页
+
+Next page
+下一页
+
+Num songs
+%{smart_count} nummer |||| %{smart_count} 首
+
+Num playlists
+%{smart_count} afspeellijst |||| %{smart_count} 个
+
+Num entries
+%{smart_count} entry |||| %{smart_count} 首
+
+Add all to queue
+全部添加到队列
+
+Add all to playlist
+全部添加到播放列表
+
+Save as smart playlist
+另存为智能播放列表
+
+To top
+到顶部
+
+Bookmarks
+书签
+
+Select tag to search
+选择要搜索的标签
+
+contains
+包含
+
+Initializing myMPD
+初始化myMPD
+
+Fetch myMPD settings
+获取myMPD设置
+
+Fetch MPD settings
+获取MPD设置
+
+Connect to websocket
+连接到 websocket
+
+Applying settings
+应用设置
+
+Updating MPD database
+更新MPD数据库
+
+Dependent on the size of your music collection this can take a while
+
+根据音乐收藏的大小，这可能需要一段时间
+
+Add to playlist
+添加到播放列表
+
+Stream URI
+流URI
+
+http://uri.to/stream.mp3
+http://uri.to/stream.mp3
+
+Invalid URI
+无效的URI
+
+Please choose playlist
+请选择播放列表
+
+Create Playlist
+创建播放列表
+
+Invalid filename
+文件名无效
+
+Invalid type
+无效的类型
+
+Add
+添加
+
+Rename playlist
+重命名播放列表
+
+From
+从
+
+To
+到
+
+Cancel
+取消
+
+Save
+保存
+
+Delete playlist
+删除播放列表
+
+Delete
+删除
+
+Love song
+喜欢的歌
+
+Scrobbled love
+缠绵的爱情
+
+Failed to send love message to channel
+向频道发送喜欢信息失败
+
+Dislike song
+不喜欢
+
+Like song
+喜欢
+
+MPD stickers are disabled
+MPD标签被禁用
+
+folder.jpg
+folder.jpg
+
+Size in px
+大小（像素）
+
+Save smart playlist
+保存智能播放列表
+
+Name
+名称
+
+Tag
+标签
+
+Tags
+标签
+
+Sticker
+贴纸
+
+Max. songs
+最多歌曲数
+
+Must be a number
+必须是数字
+
+Timerange (days)
+时间范围（天）
+
+Like
+Like
+
+Play count
+播放计数
+
+Skip count
+跳过计数
+
+Theme
+主题
+
+General
+一般
+
+Random
+随机
+
+Consume
+消除
+
+Single
+单曲
+
+Repeat
+重复
+
+Crossfade
+淡入淡出
+
+Replaygain
+播放增益
+
+Off
+关闭
+
+Mixramp DB
+混频放大器 分贝
+
+Mixramp delay
+混频放大器 延迟
+Autoplay
+自动播放
+
+Jukebox
+音乐盒
+
+Jukebox mode
+音乐盒 模式
+
+Keep queue length
+保持队列长度
+
+Must be a number and greater than zero
+必须是大于零的数字
+
+Albumart
+相册
+
+Can't access music directory
+无法访问音乐目录
+
+Invalid size
+大小无效
+
+Background color
+背景色
+
+Highlight color
+突出显示颜色
+
+Invalid color
+无效的颜色
+
+CSS filter
+CSS筛选器
+
+Invalid CSS filter
+CSS筛选器无效
+
+Locale
+区域设置
+
+Browser default
+浏览器默认值
+
+Pagination
+分页
+
+Must be a number smaller or equal 200
+必须是小于或等于200的数字
+
+Notifications
+通知
+
+On page notifications
+页面通知
+
+Web notifications
+Web通知
+
+Tags to use
+要使用的标签
+
+Tags to search
+要搜索的标签
+
+Tags to browse
+要浏览的标签
+
+URI
+URI
+
+Port
+端口
+
+Statistics
+统计
+
+Stickers are disabled
+标签被禁用
+
+Playback statistics
+播放统计
+
+Playback statistics are disabled
+播放统计信息已禁用
+
+Last played list count
+上次播放列表计数
+
+Smart playlists
+智能播放列表
+
+Smart playlists updated
+智能播放列表已更新
+
+Smart playlists update failed
+智能播放列表更新失败
+
+Smart playlist %{playlist} updated
+智能播放列表 %{playlist} 已更新
+
+Updating of smart playlist %{playlist} failed
+更新智能播放列表 %{playlist} 失败
+
+Smart playlist
+智能播放列表
+
+Playlists are disabled
+播放列表已禁用
+
+Scrobbler integration
+Scrobbler集成
+
+MPD channel not found
+未找到MPD频道
+
+Send love message
+发送爱的信息
+
+MPD channel
+MPD频道
+
+Invalid channel name
+通道名称无效
+
+Message
+消息
+
+Invalid message
+无效的消息
+
+Reset
+重置
+
+Reset settings
+重置设置
+
+Clear app cache and reload
+清除应用缓存并重新加载
+
+Reload
+重新加载
+
+Shortcuts
+快捷键
+
+Version
+版本
+
+Homepage
+主页
+
+Author
+作者
+
+Database statistics
+数据库统计
+
+Artists
+艺术家
+
+Albums
+相册
+
+Songs
+歌曲
+
+DB play time
+数据库播放时间
+
+DB updated
+数据库已更新
+
+MPD uptime
+MPD正常运行时间
+
+myMPD uptime
+myMPD正常运行时间
+
+Play time
+播放时间
+
+Connection
+连接
+
+Protocol version
+协议版本
+
+Libmpdclient version
+Libmpdclient版本
+
+Libmympdclient version
+Libmympdclient版本
+
+Shortcut
+快捷键
+
+Action
+动作
+
+MPD host
+MPD主机
+
+Invalid MPD host
+MPD主机无效
+
+MPD port
+MPD端口
+
+Invalid MPD port
+MPD端口无效
+
+MPD password
+MPD密码
+
+Invalid MPD password
+MPD密码无效
+
+Music directory
+音乐目录
+
+Autodetect
+自动检测
+
+None
+没有
+
+Specify
+指定
+
+Invalid music directory
+无效的音乐目录
+
+Music directory not found
+找不到音乐目录
+
+Playlist name
+播放列表名称
+
+Quantity
+数量
+
+Save bookmark
+保存书签
+
+Clearing bookmarks failed
+清除书签失败
+
+Bookmark name
+书签名称
+
+Bookmark URI
+书签URI
+
+Song details
+歌曲详细信息
+
+Close
+关闭
+
+Searching...
+搜索......
+
+Previous song
+上一首歌
+
+Next song
+下一首歌
+
+Toggle play / pause
+切换播放/暂停
+
+Stop playing
+停止播放
+
+Volume down
+降低音量
+
+Volume up
+提高音量
+
+Open settings
+打开设置
+
+Open song details
+打开歌曲详细信息
+
+Open local player
+打开本地播放器
+
+Goto playback
+转到播放
+
+Goto queue
+转到 队列
+
+Goto last played
+转到 上次播放
+
+Goto browse database
+转到 数据库
+
+Goto browse playlists
+转到 播放列表
+
+Goto browse filesystem
+转到 文件系统
+
+Goto browse covergrid
+转到 covergrid
+
+Goto search
+转到 搜索
+
+Open main menu
+打开主菜单
+
+Open volume menu
+打开音量菜单
+
+Open about
+关于
+
+Focus search
+焦点搜索
+
+myMPD installed as app
+myMPD作为应用程序安装
+
+Can not start playing
+无法开始播放
+
+MPD disconnected
+MPD断开
+
+Websocket connection failed
+Websocket连接失败
+
+Connected to myMPD
+连接到 myMPD
+
+Connected to MPD
+连接到 MPD
+
+Websocket connection failed, trying to reconnect
+Websocket连接失败，正在尝试重新连接
+
+Can not parse settings
+无法分析设置
+
+Volumecontrol disabled
+Volumecontrol已禁用
+
+Volume
+音量
+
+No results, please refine your search
+没有结果，请优化搜索
+
+Empty queue
+空队列
+
+Empty list
+空列表
+
+Empty playlist
+空播放列表
+
+No playlists found
+找不到播放列表
+
+Added stream %{streamUri} to queue
+已将流 %{streamUri} 添加到队列
+
+Append to queue
+附加到队列
+
+Add after current playing song
+在当前播放歌曲后添加
+
+View playlist
+查看播放列表
+
+Add bookmark
+加入书签
+
+Replace queue
+替换队列
+
+Edit smart playlist
+编辑智能播放列表
+
+Edit playlist
+编辑播放列表
+
+Update smart playlist
+更新智能播放列表
+
+Delete playlist
+删除播放列表
+
+Remove
+删除
+
+Remove all upwards
+全部向上取出
+
+Remove all downwards
+向下全部取下
+
+Database update started
+数据库更新已开始
+
+Database successfully updated
+数据库已成功更新
+
+Database update finished
+数据库更新已完成
+
+Added songs to %{playlist}
+已将歌曲添加到 %{playlist}
+
+Added songs to queue
+已将歌曲添加到队列
+
+Add random
+随机添加
+
+New playlist
+播放列表
+
+never
+未曾播放
+
+Failed to save playlist
+无法保存播放列表
+
+Added %{uri} to playlist %{playlist}
+已将 %{uri} 添加到播放列表 %{playlist}
+
+Sucessfully added random songs to queue
+已成功将随机歌曲添加到队列中
+
+Adding random songs to queue failed
+向队列添加随机歌曲失败
+
+Deleting smart playlist failed
+删除智能播放列表失败
+
+Unknown request
+未知请求
+
+No response for method %{method}
+%{method} 没有响应
+
+MPD connection error: %{error}
+MPD连接错误 %{error}
+
+Renaming playlist failed
+重命名播放列表失败
+
+Sucessfully renamed playlist
+已成功重命名播放列表
+
+Can not read smart playlist file
+无法读取智能播放列表文件
+
+Can not parse smart playlist file
+无法分析智能播放列表文件
+
+Unknown smart playlist type
+未知智能播放列表类型
+
+System commands are disabled
+系统命令被禁用
+
+Saving bookmark failed
+保存书签失败
+
+Deleting bookmark failed
+删除书签失败
+
+System command not defined
+未定义系统命令
+
+Successfully execute cmd %{cmd}
+成功执行cmd %{cmd}
+
+Failed to execute cmd %{cmd}
+无法执行cmd %{cmd}
+
+Failed to open bookmarks file
+无法打开书签文件
+
+No bookmarks found
+找不到书签
+
+Background
+背景
+
+Days
+天
+
+Hours
+小时
+
+Minutes
+分钟
+
+Seconds
+秒
+
+Added all songs
+添加了所有歌曲
+
+%{name} added to queue
+%{name} 已添加到队列
+
+%{name} added to queue position %{to}
+%{name} 已添加到队列位置 %{to}
+
+Queue replaced with %{name}
+队列已替换为 %{name}
+
+Saved smart playlist %{name}
+已保存智能播放列表 %{name}
+
+System commands
+系统命令
+
+Focus table
+焦点表
+
+Append item to queue
+将项目追加到队列
+
+Replace queue with item
+将队列替换为项
+
+Type
+类型
+
+Remove item from queue
+从队列中删除项目
+
+Append item to playlist
+将项目附加到播放列表
+
+Fingerprint
+指纹
+
+Calculate
+计算
+
+myMPD CA
+myMPD CA
+
+IP-Address
+IP地址
+
+Mongoose version
+Mongoose版本
+
+Webserver
+网络服务器
+
+Download
+下载
+
+Can't save setting %{setting}
+无法保存设置 %{setting}
+
+No current song
+没有当前歌曲
+
+No search expression defined
+未定义搜索表达式
+
+Unknown table %{table}
+未知表 %{table}
+
+Fingerprint command not supported
+不支持指纹命令
+
+MUSICBRAINZ_ALBUMARTISTID
+MUSICBRAINZ 唱片艺术家 ID
+
+MUSICBRAINZ_ALBUMID
+MUSICBRAINZ 专辑 ID
+
+MUSICBRAINZ_ARTISTID
+MUSICBRAINZ 艺术家 ID
+
+MUSICBRAINZ_RELEASETRACKID
+MUSICBRAINZ 发行版音轨 ID
+
+MUSICBRAINZ_TRACKID
+MUSICBRAINZ 曲目 ID
+
+MUSICBRAINZ_WORKID
+MUSICBRAINZ 工作 ID
+
+myMPD is in readonly mode
+myMPD处于只读模式
+
+Consume must be enabled
+必须启用消费
+
+Advanced
+高级
+
+Successfully croped covercache
+已成功croped封面缓存
+
+Successfully cleared covercache
+已成功cleared封面缓存
+
+Clear covercache
+清除封面缓存
+
+Clear
+清除
+
+Crop
+裁剪
+
+No albumart found by mpd
+MPD找不到相册
+
+Descending
+下降
+
+Covergrid
+网格
+
+Sort by
+排序依据
+
+Size normal
+正常大小
+
+Size small
+小尺寸
+
+Dark
+黑暗
+
+Light
+明亮
+
+Default
+默认预设
+
+Appearance
+外观
+
+Unknown artist
+未知艺术家
+
+Unknown album
+未知唱片集
+
+Show songs
+显示歌曲
+
+JavaScript error
+JavaScript 错误
+
+Definition
+定义
+
+Enable jukebox if playlist is database
+如果播放列表是数据库，则启用点唱机
+
+Enabled
+启用
+
+Enforce uniqueness
+强制唯一性
+
+Invalid name
+无效的名称
+
+Last played older than (hours)
+上次播放时间超过（小时）
+
+Minimum one weekday must be selected
+必须至少选择一个工作日
+
+Must be a number and equal or greater than zero
+必须是一个大于等于零的数字
+
+Timer
+定时器
+
+New timer
+新计时器
+
+Timer with given id not found
+找不到具有给定id的计时器
+
+On
+打开
+
+on
+在
+
+Oneshot
+一次性
+
+Other features
+其他特性
+
+Start
+开始
+
+Start playback
+开始播放
+
+Stop playback
+停止播放
+
+Weekdays
+星期
+
+Mon
+周一
+
+Tue
+周二
+
+Wed
+周三
+
+Thu
+周四
+
+Fri
+周五
+
+Sat
+周六
+
+Sun
+周日
+
+System command
+系统命令
+
+LastModified
+上次修改
+
+Best rated
+最佳评价
+
+Most played
+玩得最多
+
+Newest songs
+最新歌曲
+
+Add smart playlist
+添加智能播放列表
+
+Generate smart playlist per
+根据生成智能播放列表
+
+Min. value
+最小值
+
+Disabled
+禁用
+
+Shuffle
+刷新
+
+Playlist is too small to shuffle
+播放列表太小，无法随机播放
+
+Playlist is too small to sort
+播放列表太小，无法排序
+
+Shuffle playlist
+随机播放列表
+
+Shuffled playlist succesfully
+已成功刷新播放列表
+
+Sort playlist
+排序播放列表
+
+Sorted playlist succesfully
+已成功排序播放列表
+
+search
+搜索
+
+newest
+最新的
+
+sticker
+贴纸
+
+Order
+命令
+
+Sort by tag
+按标签排序
+
+Update smart playlists (hours)
+更新智能播放列表（小时）
+
+Smart playlists prefix
+智能播放列表前缀
+
+Invalid prefix
+前缀无效
+
+Invalid number
+无效的数字
+
+Leaving playlist as it is
+保持播放列表不变
+
+Delete all playlists
+删除所有播放列表
+
+Delete all smart playlists
+删除所有智能播放列表
+
+Delete empty playlists
+删除空播放列表
+
+Delete playlists
+删除播放列表
+
+Media session support
+媒体会话支持
+
+Playlists deleted
+已删除播放列表
+
+Preview
+预览
+
+Info
+信息
+
+Error
+错误
+
+MPD connected
+MPD 已连接
+
+Websocket connected
+Websocket 已连接
+
+Websocket disconnected
+Websocket 已断开
+
+Websocket is disconnected
+Websocket 已断开
+
+Websocket connection
+Websocket 连接
+
+Auto
+自动
+
+Connection state
+连接状态
+
+Booklet
+小册子
+
+Booklet filename
+小册子文件名
+
+Lyrics
+歌词
+
+Pictures
+图片
+
+Notifications are blocked
+通知被阻止
+
+Adding timer failed
+添加计时器失败
+
+Browse directories
+浏览目录
+
+Sorry, your MPD version is too old
+对不起，你的MPD版本太旧了
+
+Mounts
+装载
+
+New mount
+新装载
+
+Backend uri
+装载点路径
+
+Invalid backend uri
+装载点路径无效
+
+Invalid mount point
+装载点无效
+
+Mount point
+装载点
+
+Unmount
+卸载装载
+
+Can not crop the queue
+无法裁剪队列
+
+No such directory
+没有这样的目录
+
+No lyrics found
+找不到歌词
+
+Invalid column
+无效的列
+
+Neighbors are disabled
+网络邻居禁用
+Error in response to command: %{command}
+响应命令时出错：%{command}
+
+Arguments
+论据
+
+Can not open scriptfile
+无法打开脚本文件
+
+Can't create mympd_script thread
+无法创建mympd脚本线程
+
+Could not delete script
+无法删除脚本
+
+Could not save script
+无法保存脚本
+
+Editing scripts is disabled
+已禁用编辑脚本
+
+Error executing script %{script}
+执行脚本 %{script} 时出错
+
+Error executing script %{script}: Can not open or read script file
+执行脚本 %{script} 时出错：无法打开或读取脚本文件
+
+Error executing script %{script}: Error in garbage collector
+执行脚本 %{script} 时出错：垃圾回收器出错
+
+Error executing script %{script}: Error while running the message handler
+执行脚本 %{script} 时出错：运行消息处理程序时出错
+
+Error executing script %{script}: Memory allocation error
+执行脚本 %{script} 时出错：内存分配错误
+
+Error executing script %{script}: Runtime error
+执行脚本 %{script} 时出错：运行时错误
+
+Error executing script %{script}: Syntax error during precompilation
+执行脚本 %{script} 时出错：预编译期间出现语法错误
+
+Execute
+执行
+
+Execute script
+执行脚本
+
+Filling jukebox queue failed, disabling jukebox
+填充自动点唱机队列失败，正在禁用自动点唱机
+
+Force smart playlist update
+强制智能播放列表更新
+
+Force update
+强制更新
+
+Fullscreen
+全屏
+
+Invalid scale ratio
+比例比例无效
+
+Invalid script API request
+脚本API请求无效
+
+Invalid script argument
+脚本参数无效
+
+Invalid script order
+脚本顺序无效
+
+Invalid scriptname
+脚本名无效
+
+New script
+新脚本
+
+No action selected
+未选择操作
+
+No mpd state for script execution submitted
+未提交脚本执行的mpd状态
+
+No search tag defined and advanced search is disabled
+未定义搜索标签，已禁用高级搜索
+
+Open fullscreen
+全屏打开
+
+Playlist to small, disabling jukebox unique constraints temporarily
+播放列表变小，暂时禁用自动点唱机唯一约束
+
+Remote scripting is disabled
+远程脚本已禁用
+
+Scale ratio
+比例比
+
+Script
+脚本
+
+Script %{script} executed successfully
+脚本 %{Script} 已成功执行
+
+Script arguments
+脚本参数
+
+Scripting is disabled
+脚本已禁用
+
+Script name
+脚本名
+
+Scripts
+脚本
+
+Smart playlists are disabled
+智能播放列表已禁用
+
+Smart playlists update started
+智能播放列表更新已开始
+
+Sort order of the script, 0 disables listing in main menu
+脚本的排序顺序，0将禁用主菜单中的列表
+
+Sticker cache is NULL
+标签缓存为空
+
+Could not delete trigger
+无法删除触发器
+
+Could not save trigger
+无法保存触发器
+
+Current partition
+当前分区
+
+Details
+细节
+
+Edit attributes
+编辑属性
+
+Error loading stream
+加载流时出错
+
+Event
+事件
+
+HTTP Port
+HTTP端口
+
+HTTPS Port
+HTTPS端口
+
+Invalid partition name
+分区名无效
+
+Invalid script name
+脚本名称无效
+
+Invalid trigger name
+触发器名称无效
+
+Move an output to this partition
+将输出移到此分区
+
+New partition
+新建分区
+
+New trigger
+新触发器
+
+No mixed content, MPD stream must be served over https:
+没有混合内容，MPD流必须通过https提供：
+
+No outputs
+无输出
+
+Output
+输出
+
+Output attributes
+输出属性
+
+Partition
+隔断
+
+Partition name
+分区名称
+
+Partitions
+隔墙
+
+Plugin
+插件
+
+Script name
+脚本名称
+
+Show attributes
+显示属性
+
+State
+状态
+
+Switch to
+切换到
+
+Trigger
+触发
+
+Trigger name
+触发器名称
+
+Trigger not found
+找不到触发器
+
+current
+现在的
+
+disabled
+禁用
+
+enabled
+启用
+
+No mixed content, MPD stream must be served over https:
+没有混合内容，MPD流必须通过https提供：
